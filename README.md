@@ -54,8 +54,8 @@ Script ini di modifikasi sama saya sendiri MaslentGans.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/ICHI-LENT/ichi
-> cd ichi-lent/ichi
+> git clone https://github.com/daudhanafi60/My-BOT
+> cd daudhanafi60/My-BOT
 > bash install.sh
 > node index js
 > Tinggal scan kode qr yeee...done
